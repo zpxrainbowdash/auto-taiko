@@ -1,6 +1,8 @@
 /*
  * 太鼓达人自动演奏上分emmmm
  * 好像外挂啊。。。
+ * zpxrainbowdash编写
+ * 版本1.0
  */
 #include "Keyboard.h"
 int buttonPin = 5;   //针脚定义
